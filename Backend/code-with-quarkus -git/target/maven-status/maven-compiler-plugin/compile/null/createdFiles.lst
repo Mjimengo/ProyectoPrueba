@@ -1,0 +1,3 @@
+org\acme\Roles\Roles.class
+org\acme\Roles\RolesResource.class
+org\acme\Roles\RolesRepository.class

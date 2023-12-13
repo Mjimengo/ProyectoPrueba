@@ -1,0 +1,5 @@
+org\acme\ClientResource.class
+org\acme\Client.class
+org\acme\ClientRepository.class
+META-INF\panache-archive.marker
+org\acme\GreetingResource.class
